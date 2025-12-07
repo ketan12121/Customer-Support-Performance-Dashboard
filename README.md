@@ -31,3 +31,22 @@ From the dashboard, we can see:
 
 <img width="1916" height="909" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/8ce32325-f797-44c6-85cd-1ebadc9781b1" />
 
+
+## Features
+
+- Interactive slicers for deeper analysis  
+- Regional SLA performance breakdown  
+- Agent-wise resolution time comparison  
+- Trend lines to monitor ticket volume over time
+
+- ## Business Impact
+
+This dashboard helps support managers:
+
+- Identify regions with high SLA breaches  
+- Improve agent performance and training focus  
+- Enhance customer satisfaction by reducing delays  
+- Monitor workload by channel for resource planning  
+
+
+
